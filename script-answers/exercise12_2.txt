@@ -1,0 +1,22 @@
+Script started on Tue Oct 14 09:59:25 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                       [0m[27m[24m[Jbtaskinen@Barbaras-MacBook-Air-2 script-answers % [K[?2004h[7mdocker run -it ubuntu bash[27m[26D[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@17ba8756bb87: /root@17ba8756bb87:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@17ba8756bb87: /root@17ba8756bb87:/# ls
+[?2004l[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+[?2004h]0;root@17ba8756bb87: /root@17ba8756bb87:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h]0;root@17ba8756bb87: /root@17ba8756bb87:/# [Kcd usr
+[?2004l[?2004h]0;root@17ba8756bb87: /usrroot@17ba8756bb87:/usr# ls
+[?2004l[0m[01;34mbin[0m  [01;34mgames[0m  [01;34minclude[0m  [01;34mlib[0m  [01;34mlibexec[0m  [01;34mlocal[0m  [01;34msbin[0m  [01;34mshare[0m  [01;34msrc[0m
+[?2004h]0;root@17ba8756bb87: /usrroot@17ba8756bb87:/usr# cd src
+[?2004l[?2004h]0;root@17ba8756bb87: /usr/srcroot@17ba8756bb87:/usr/src# cd a    ls src
+[?2004lls: cannot access 'src': No such file or directory
+[?2004h]0;root@17ba8756bb87: /usr/srcroot@17ba8756bb87:/usr/src# ls
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@17ba8756bb87: /usr/srcroot@17ba8756bb87:/usr/src# cd app
+[?2004l[?2004h]0;root@17ba8756bb87: /usr/src/approot@17ba8756bb87:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@17ba8756bb87: /usr/src/approot@17ba8756bb87:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                       [0m[27m[24m[Jbtaskinen@Barbaras-MacBook-Air-2 script-answers % [K[?2004heexit[?2004l
+
+Script done on Tue Oct 14 10:02:51 2025
