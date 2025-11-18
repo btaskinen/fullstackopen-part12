@@ -1,0 +1,14 @@
+### Get all todos
+GET http://localhost:3000/todos/
+
+### Get todo by id
+GET http://localhost:3000/todos/691ae8013fbd61800db1ddf5
+
+### Update todo by id
+PUT http://localhost:3000/todos/691ae8013fbd61800db1ddf5
+Content-Type: application/json
+
+{
+  "text": "Updated todo text, done!",
+  "done": true
+}
