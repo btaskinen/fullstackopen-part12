@@ -1,0 +1,38 @@
+exit
+db.todos.find({})
+db.todos.insertOne({text: 'Increase the number of tools in my tool belt', done: false })
+db.todos.find({})
+show collections
+use the_database
+show dbs
+exit
+db.todos.find({})
+db.todos.insertOne({text: 'test todo', done: false })
+db.todos.find({})
+show collections
+show collection
+use the_database
+show dbs
+show database
+db.todos.find({})
+show collections
+use the_database
+show dbs
+exit
+db.todos.find({})
+db.collection.insertOne({ text: 'test todo', done: false })
+db.todos.find({})
+db.collection.insertOne({    _id: ObjectId('691ae8013fbd61800db1dd65', ), text: 'test todo', done: false})
+    text: 'Updated todo text, done!',
+db.collection.insertOne({    _id: ObjectId('691ae8013fbd61800db1ddf5'),})
+    }
+      writeConcern: <document>
+    {
+    <document>,
+db.collection.insertOne(
+db.todos.find({})
+show collections
+use the_database
+show dbs
+exit
+show dbs
